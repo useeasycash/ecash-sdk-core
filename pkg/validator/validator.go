@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/useeasy/ecash-sdk-core/pkg/types"
+	"github.com/useeasycash/ecash-sdk-core/pkg/types"
 )
 
 var (

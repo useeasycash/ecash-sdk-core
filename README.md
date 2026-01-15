@@ -1,7 +1,6 @@
 # ecash-sdk-core (Go)
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/useeasy/ecash-sdk-core.svg)](https://pkg.go.dev/github.com/useeasy/ecash-sdk-core)
-[![Go Report Card](https://goreportcard.com/badge/github.com/useeasy/ecash-sdk-core)](https://goreportcard.com/report/github.com/useeasy/ecash-sdk-core)
+[![Go Report Card](https://goreportcard.com/badge/github.com/useeasycash/ecash-sdk-core)](https://goreportcard.com/report/github.com/useeasycash/ecash-sdk-core)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **The Official Server-Side SDK for the EasyCash Protocol.**
@@ -24,7 +23,7 @@
 ## 📦 Installation
 
 ```bash
-go get github.com/useeasy/ecash-sdk-core
+go get github.com/useeasycash/ecash-sdk-core
 ```
 
 ## 🛠 Quick Start
@@ -38,9 +37,9 @@ import (
     "context"
     "log"
 
-    "github.com/useeasy/ecash-sdk-core/pkg/client"
-    "github.com/useeasy/ecash-sdk-core/pkg/config"
-    "github.com/useeasy/ecash-sdk-core/pkg/types"
+    "github.com/useeasycash/ecash-sdk-core/pkg/client"
+    "github.com/useeasycash/ecash-sdk-core/pkg/config"
+    "github.com/useeasycash/ecash-sdk-core/pkg/types"
 )
 
 func main() {

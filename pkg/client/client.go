@@ -6,14 +6,14 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/useeasy/ecash-sdk-core/pkg/agent"
-	"github.com/useeasy/ecash-sdk-core/pkg/cache"
-	"github.com/useeasy/ecash-sdk-core/pkg/config"
-	sdkerrors "github.com/useeasy/ecash-sdk-core/pkg/errors"
-	"github.com/useeasy/ecash-sdk-core/pkg/monitoring"
-	"github.com/useeasy/ecash-sdk-core/pkg/types"
-	"github.com/useeasy/ecash-sdk-core/pkg/validator"
-	"github.com/useeasy/ecash-sdk-core/pkg/zk"
+	"github.com/useeasycash/ecash-sdk-core/pkg/agent"
+	"github.com/useeasycash/ecash-sdk-core/pkg/cache"
+	"github.com/useeasycash/ecash-sdk-core/pkg/config"
+	sdkerrors "github.com/useeasycash/ecash-sdk-core/pkg/errors"
+	"github.com/useeasycash/ecash-sdk-core/pkg/monitoring"
+	"github.com/useeasycash/ecash-sdk-core/pkg/types"
+	"github.com/useeasycash/ecash-sdk-core/pkg/validator"
+	"github.com/useeasycash/ecash-sdk-core/pkg/zk"
 )
 
 // EasyCashClient is the main entry point for the SDK

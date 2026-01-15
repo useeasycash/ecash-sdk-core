@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/useeasy/ecash-sdk-core/pkg/types"
+	"github.com/useeasycash/ecash-sdk-core/pkg/types"
 )
 
 func TestValidateAddress(t *testing.T) {
